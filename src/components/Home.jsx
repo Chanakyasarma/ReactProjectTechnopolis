@@ -9,7 +9,7 @@ const Home = () => {
             <main>
                 <img src={vi} alt="Graphics"/>
                 <h1>
-                    TechyStar
+                    Technopolis
                 </h1>
                 <p>Solution to all your problems</p>
             </main>
@@ -31,7 +31,7 @@ const Home = () => {
                     Who we are?
                 </h1>
                 <p>
-                TechyStar  is an end-to-end Product Development Company that helps its customer with Product Planning, Interaction Design & Architecture, Product Engineering & Deployment. 
+                Technopolis is an end-to-end Product Development Company that helps its customer with Product Planning, Interaction Design & Architecture, Product Engineering & Deployment. 
 
 Specialised in converging conventional tech and effective use of disruptive technologies to ensure customers become an innovative disruptor to lead their competition.
 Services include-

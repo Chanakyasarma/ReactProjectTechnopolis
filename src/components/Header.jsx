@@ -5,7 +5,7 @@ import{HashLink} from "react-router-hash-link"
 export const Header = () => {
   return (
     <nav>
-        <h1>TechyStar</h1>
+        <h1>Technopolis</h1>
         <main>
 
             <HashLink to={"/#home"}>Home</HashLink>

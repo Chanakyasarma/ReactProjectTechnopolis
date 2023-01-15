@@ -1,4 +1,4 @@
-import{BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import{BrowserRouter as HashRouter, Routes, Route} from "react-router-dom";
 import  {Header} from "./components/Header";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
@@ -14,7 +14,7 @@ import "./styles/mediaquery.scss";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -22,7 +22,7 @@ function App() {
         <Route path="/services" element={<Services />} />
       </Routes>
       <Footer />
-    </Router>
+    </HashRouter>
     
   );
 }

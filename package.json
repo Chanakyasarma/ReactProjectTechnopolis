@@ -2,7 +2,7 @@
   "name": "one",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Chanakyasarma.github.io/ReactProjectOne",
+  "homepage": "http://Chanakyasarma.github.io/ReactProjectOne/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

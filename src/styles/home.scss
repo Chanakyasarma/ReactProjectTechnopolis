@@ -16,17 +16,17 @@
         flex-direction: column;
         align-items: center;
         width: 100%;
-        height: 90%;
-        padding: 0.5rem;
+        height: 75%;
+        padding: 0.1rem;
         justify-content: center;
 
         img{
-            width: 40%;
+            width: 45%;
             animation: imgUp 1s linear infinite alternate;
         }
 
         >h1{
-            font: 400 6rem $text1;
+            font: 400 4rem $text1;
             color: $dark;
             }
         >p{
@@ -59,7 +59,6 @@
 
     img{
         width: 30%;
-        animation: imgUp 0.7s linear infinite alternate;
     }
     >div{
         width: 50%;

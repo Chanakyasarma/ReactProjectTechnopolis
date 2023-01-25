@@ -12,7 +12,7 @@ export const Header = () => {
             <HashLink to={"/#about"}>About</HashLink>
             <HashLink to={"/#brands"}>Brands</HashLink>
             <Link to={"/contact"}>Contact</Link>
-            <Link to={"/services"}>Services</Link>
+            <Link to={"/services"}>Service</Link>
         </main>
     </nav>
   )

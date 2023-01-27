@@ -9,6 +9,7 @@ const Services = () => {
     <div>
         <Carousel
         infiniteLoop  
+        interval={1000}
         showStatus={true} 
         showArrows={true}  
         showThumbs={false}

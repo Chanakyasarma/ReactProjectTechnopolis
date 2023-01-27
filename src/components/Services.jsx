@@ -8,6 +8,7 @@ const Services = () => {
   return (
     <div>
         <Carousel
+        autoPlay
         infiniteLoop  
         interval={1000}
         showStatus={true} 

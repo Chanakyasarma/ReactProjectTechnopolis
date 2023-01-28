@@ -5,7 +5,7 @@ import {AiFillGoogleCircle,AiFillAmazonCircle,AiFillYoutube,AiFillInstagram} fro
 const Home = () => {
   return (
     <>
-        <div className='home' id="home1">
+        <div className='home' id="home">
             <main>
                 <img src={vi} alt="Graphics"/>
                 <h1>

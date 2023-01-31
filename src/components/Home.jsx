@@ -14,7 +14,7 @@ const Home = () => {
                 <p>Solution to all your problems</p>
             </main>
         </div>
-        <div className='home2'>
+        <div className='home'>
             <img src={vg} alt="Graphics"/>
             <div>
                 <p>
